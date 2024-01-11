@@ -1,0 +1,24 @@
+.card{
+    margin-bottom: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.custom{
+    display: flexbox;
+    flex-wrap: wrap;
+    width: 64px;
+    height: 64px;
+}
+
+li.clicked {
+    background-color: aquamarine;
+}
+
+form {
+    background-color: white ;
+}
+
+.color-change {
+    background-color: turquoise;
+}
